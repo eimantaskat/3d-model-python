@@ -1,0 +1,7 @@
+__pycache__
+assets
+*.blend*
+*.obj*
+*pur
+*.off
+*.stl
